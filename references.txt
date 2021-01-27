@@ -1,0 +1,2 @@
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.get_dummies.html
+https://www.kaggle.com/carolzhangdc/predict-imdb-score-with-data-mining-algorithms
